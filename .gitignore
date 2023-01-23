@@ -1,0 +1,8 @@
+venv/
+reguirements.txt/
+.idea/
+app/db.sqlite3/
+app/accounts/migrations/
+app/post/migrations/
+
+**/__pycache__/
